@@ -16,7 +16,7 @@ Creation of a remote information collection system for monitoring the state of t
 # Project Architecture
 
 ![](https://github.com/alfir-v10/IoTSamsungProject/blob/main/images/ProjectArchitecture.PNG)
-![](https://github.com/alfir-v10/IoTSamsungProject/blob/main/images/ProjectArchitecture.PNG)
+![](https://github.com/alfir-v10/IoTSamsungProject/blob/main/images/RealProject.PNG)
 
 # Application
 ![](https://github.com/alfir-v10/IoTSamsungProject/blob/main/images/BeesApp.png)
